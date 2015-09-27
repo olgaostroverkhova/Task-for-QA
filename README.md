@@ -3,7 +3,7 @@ Auto-tests to test Cogniance Server's API
 
 DESCRIPTION
 
-This project contains the file api-hw.py that covers Cogniance server's API with positive tests.
+This project contains the file api_hw.py that covers Cogniance server's API with positive and negative tests.
 These scripts use the following Python libraries: pytest, request, json. 
 
 INSTALLATION
