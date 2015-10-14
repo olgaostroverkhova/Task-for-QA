@@ -1,4 +1,6 @@
 # Task-for-QA
+This is the first homework for Netpulse Automation workshop
+
 Auto-tests to test Cogniance Server's API
 
 DESCRIPTION
